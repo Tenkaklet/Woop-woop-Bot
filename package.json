@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "name": "woop-woop-bot",
+  "version": "1.0.0",
+  "description": "A Woop Woop Bot for Discord",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tenkaklet/Woop-woop-Bot.git"
+  },
+  "author": "Max Carlquist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tenkaklet/Woop-woop-Bot/issues"
+  },
+  "homepage": "https://github.com/Tenkaklet/Woop-woop-Bot#readme",
+  "keywords": [
+    "Wooop",
+    "Woop"
+  ]
+}
